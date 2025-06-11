@@ -1,2 +1,8 @@
-      OPS: |
-        GarretCMK
+[
+  {
+    "uuid": "1e2790eb-d2e9-4cae-b43b-09ddca759444",
+    "name": "GarretCMK",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
